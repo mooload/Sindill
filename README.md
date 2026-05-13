@@ -37,7 +37,7 @@ Welcome to my GitHub! I am a Data Science Developer passionate about building ro
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_ACTUAL_USERNAME&theme=radical&hide_border=true" width="60%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mooload&theme=radical&hide_border=true" width="60%" alt="GitHub Streak" />
 </div>
 
 ---
