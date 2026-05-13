@@ -36,6 +36,10 @@ Welcome to my GitHub! I am a Data Science Developer passionate about building ro
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mooload&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_ACTUAL_USERNAME&theme=radical&hide_border=true" width="60%" alt="GitHub Streak" />
+</div>
+
 ---
 <div align="center">
   <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
